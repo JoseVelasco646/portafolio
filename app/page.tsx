@@ -3,7 +3,7 @@ import SkillsBadges from "@/utils/SkillsBadges";
 import { useState } from "react";
 
 export default function Home() {
-  const images: string[] = ["itescan1.jpg","chat1.png"];
+  const images: string[] = [""];
 
   const cardColors = [
     "142, 249, 252",
